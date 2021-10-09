@@ -1,2 +1,5 @@
 ## Who am I
-someone to lazy to design a good .io page.
+Someone too lazy to design a good .io page.
+## What do I do
+Mainly just ramdom projects and Modding Tree things
+
