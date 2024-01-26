@@ -1,10 +1,10 @@
-Game.win("Third-party");
+Game.Win("Third-party");
 if(typeof CCSE == "undefined") Game.LoadMod("https://klattmose.github.io/CookieClicker/CCSE.js");
 if(ngplus === undefined) var ngplus = {};
 
 ngplus.IN_BETA = true;
 ngplus.name = "NG+";
-ngplus.version = "0.1" + (ngplus.IN_BETA ? " (BETA)" : "");
+ngplus.version = "0.1.1" + (ngplus.IN_BETA ? " (BETA)" : "");
 ngplus.GameVersion = "2.052";
 
 ngplus.started = false;
